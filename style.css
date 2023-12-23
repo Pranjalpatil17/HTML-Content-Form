@@ -1,0 +1,81 @@
+
+body{
+    overflow: hidden;
+}
+.name{
+    color:beige;
+    background-color: blue;
+    text-align: center;
+    padding: 5px;
+}
+
+.skills{
+    color: blue;
+    margin: 10px;
+}
+
+.skills input{
+    background-color: rgb(224, 224, 219);
+    color:black;
+    width:700px;
+    height:40px;
+    margin:5px;
+    padding: 5px;
+    border-style: none;
+}
+
+.projects{
+    color: blue;
+    margin: 5px;
+    padding: 5px;
+}
+.projects-col-1 {
+    color: black;
+    border:1px solid darkgray ;
+    
+}
+
+.projects-col-1 h3{
+    border-style: none;
+    margin: 5px;
+    padding: 5px;
+}
+.projects-col-1 input{
+    background-color:hsl(60, 56%, 91%); 
+    border-style: none;
+    width:500px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.contact{
+    text-align: center;
+}
+
+.contact-1 h1{
+    color:blue;
+}
+.contact input{
+    width:400px;
+    height:20px;
+    margin:5px;
+    padding:5px;
+    border-style: none;
+}
+
+.contact textarea{
+    width:400px;
+    height:20px;
+    margin:5px;
+    padding:5px;
+    border: none;
+}
+
+.submit_button input{
+    background-color: blue;
+    color: white;
+    width:410px;
+    height:30px;
+    border-style: none;
+
+}
